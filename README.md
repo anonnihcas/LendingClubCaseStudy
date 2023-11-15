@@ -18,11 +18,12 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Borrowers whose dti values lie between 5 – 25 are more likely to default with max defaulters like between 15-20.
+- Borrowers whose dti values lie between 5 – 25 are more likely to default with max defaulters lie between 15-20.
 - Borrowers who live in Rented homes or paying mortgages are more likely to     default. 
+- Consumers who borrow due to Debt consolidation are more likely to default.
 - Grades 'B','C','D' and 'E' have higher defaults as compared to 'A','F' and 'G'. Within these grades, there are no huge variations observed with these plots.	
-- Borrowers from large urban cities are less likely to default than in rural areas.  This indicates more of rural distress.
 - Loan amount for charged off loans span between 900 - 35K. Analysis of loan data indicates many are smaller loan size, with more defaults happening between USD 0-7000 followed by 7K-14K and 14K-21K.
+- More the number of accounts, more the default – this is only true for consumers having upto 30 accounts. In any case, more than 30 accounts does not indicate possibility of default. The plot of open Accounts follow similar to normal curve with the peak of the charge off lying between 6 - 8 accounts having maximum default.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
